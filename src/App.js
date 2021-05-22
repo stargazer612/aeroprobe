@@ -14,7 +14,7 @@ import FAQ_2 from './components/pages/FAQ_2';
 import Answer from './components/pages/Answer';
 import calc from './components/pages/calc';
 function App() {
-  localStorage.setItem("city","Allahabad");
+  localStorage.setItem("city","IIITA");
   return (
     <>
       <Router>
